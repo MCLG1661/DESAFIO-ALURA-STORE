@@ -1,8 +1,8 @@
 # Desafio Alura Store - 🛍️ Análise de Desempenho de Lojas (Projeto de Data Science - Módulo: Fundamentos de Python e Dados)
 
-![Análise de Desempenho de Lojas](https://copilot.microsoft.com/th/id/BCO.224a0467-992a-46dd-bfa6-b7ce8b6540c6.png)
-
 Este projeto, que faz parte da segunda etapa do ONE G9 BR, tem como objetivo analisar o desempenho de quatro lojas diferentes com base em dados de vendas, avaliações, frete e categorias de produtos. A partir dessas análises, é feita uma recomendação sobre qual loja deve ser vendida.
+
+![Análise de Desempenho de Lojas](https://copilot.microsoft.com/th/id/BCO.224a0467-992a-46dd-bfa6-b7ce8b6540c6.png)
 
 ---
 
