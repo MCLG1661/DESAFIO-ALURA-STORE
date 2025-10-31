@@ -2,12 +2,6 @@
 
 Este projeto, que faz parte da segunda etapa do ONE G9 BR, tem como objetivo analisar o desempenho de quatro lojas diferentes com base em dados de vendas, avaliações, frete e categorias de produtos. A partir dessas análises, é feita uma recomendação sobre qual loja deve ser vendida.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=seaborn&logoColor=white)
-
 <img src="https://copilot.microsoft.com/th/id/BCO.8bd2c7a4-edd7-4fb9-953f-8aa3a181501c.png" alt="Análise de Desempenho de Lojas" width="400"/>
 
 ---
@@ -26,11 +20,11 @@ Identificar a loja com menor desempenho geral para recomendação de venda, util
 
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3
-- Google Colab
-- Pandas
-- Matplotlib
-- Seaborn
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=seaborn&logoColor=white)
 
 ---
 
