@@ -1,4 +1,4 @@
-# 🛍️ Análise de Desempenho de Lojas - Desafio Alura Store (Oracle Next Education G9 BR - Tech Foundation : Especialização Data Science - Módulo : Fundamentos de Python e dados ) 
+# Desafio Alura Store - 🛍️ Análise de Desempenho de Lojas (Oracle Next Education G9 BR) - Tech Foundation : Especialização Data Science - Módulo : Fundamentos de Python e Dados
 
 Este projeto, que faz parte da segunda etapa do ONE G9 BR, tem como objetivo analisar o desempenho de quatro lojas diferentes com base em dados de vendas, avaliações, frete e categorias de produtos. A partir dessas análises, é feita uma recomendação sobre qual loja deve ser vendida.
 
