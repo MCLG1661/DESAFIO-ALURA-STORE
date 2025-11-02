@@ -1,6 +1,6 @@
 # Desafio Alura Store : 🛍️ Análise de Desempenho de Lojas - Tech Foundation : Especialização Data Science  - Módulo : Fundamentos de Python e Dados (Oracle Next Education G9 BR)
 
-Este projeto, faz parte da segunda etapa do ONE G9 BR, e tem como objetivo analisar o desempenho de quatro lojas diferentes com base em dados de vendas, avaliações, frete e categorias de produtos. A partir dessas análises, é feita uma recomendação sobre qual loja deve ser vendida.
+Este projeto, parte da terceira etapa do ONE G9 BR, tem como objetivo realizar uma análise detalhada do desempenho de 4 lojas com base em dados de vendas, produtos e clientes. Desenvolvido em Python no ambiente Google Colab, o notebook permite visualizar métricas importantes, identificar padrões e gerar insights para tomada de decisão.
 
 <img src="https://copilot.microsoft.com/th/id/BCO.8bd2c7a4-edd7-4fb9-953f-8aa3a181501c.png" alt="Análise de Desempenho de Lojas" width="400"/>
 
@@ -57,21 +57,26 @@ Identificar a loja com menor desempenho geral para recomendação de venda, util
 
 ## 📂 Estrutura do Projeto
 📦 analise-lojas
-├── 📁 data
-│   ├── loja_1.csv
-│   ├── loja_2.csv
-│   ├── loja_3.csv
-│   └── loja_4.csv
-├── 📁 notebooks
-│   └── analise_lojas.ipynb
-├── 📁 images
-│   ├── faturamento_por_loja.png
-│   ├── vendas_por_categoria.png
-│   ├── avaliacao_media.png
-│   ├── produtos_mais_vendidos.png
-│   └── frete_medio.png
-├── 📄 README.md
-└── 📄 relatorio_final.py
+
+├── data/                        # Pasta para armazenar os arquivos de entrada (CSV, Excel, etc.)
+│   └── vendas.csv               # Exemplo de arquivo de vendas
+│
+├── notebooks/                   # Notebooks Jupyter ou Colab
+│   └── analise_loja.ipynb       # Notebook principal com a análise
+│
+├── src/                         # Código-fonte modularizado (opcional)
+│   ├── limpeza_dados.py         # Funções para limpeza e pré-processamento
+│   ├── calculo_metricas.py      # Funções para cálculo de KPIs
+│   ├── visualizacoes.py         # Funções para geração de gráficos
+│   └── relatorio.py             # Geração de relatórios ou exportação de resultados
+│
+├── outputs/                     # Resultados gerados (gráficos, relatórios, etc.)
+│   ├── graficos/                # Imagens geradas
+│   └── relatorios/              # Arquivos exportados (PDF, Excel, etc.)
+│
+├── requirements.txt             # Lista de dependências do projeto
+├── README.md                    # Documentação do projeto
+└── .gitignore                   # Arquivos e pastas a serem ignorados pelo Git
 
 Descrição dos diretórios:
 - data/: Contém os arquivos CSV com os dados brutos de cada loja.
